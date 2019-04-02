@@ -47,6 +47,8 @@
 
 ## What is it?
 
+<details>
+<summary>What is it?</summary>
 This is my multi-month study plan for going from web developer (self-taught, no CS degree) to software engineer for a large company.
 
 ![Coding at the whiteboard - from HBO's Silicon Valley](https://d3j2pkmjtin6ou.cloudfront.net/coding-at-the-whiteboard-silicon-valley.png)
@@ -59,10 +61,13 @@ If you have many years of software/web development experience, note that large s
 Facebook and Microsoft view software engineering as different from software/web development, and they require computer science knowledge.
 
 If you want to be a reliability engineer or operations engineer, study more from the optional list (networking, security).
-
+</details>
 ---
 
 ## Table of Contents
+
+<details>
+<summary>Table of Contents</summary>
 
 - [What is it?](#what-is-it)
 - [Why use it?](#why-use-it)
@@ -130,6 +135,7 @@ If you want to be a reliability engineer or operations engineer, study more from
 - [Be thinking of for when the interview comes](#be-thinking-of-for-when-the-interview-comes)
 - [Have questions for the interviewer](#have-questions-for-the-interviewer)
 - [Once You've Got The Job](#once-youve-got-the-job)
+</details>
 
 ---------------- Everything below this point is optional ----------------
 
@@ -186,6 +192,9 @@ If you want to be a reliability engineer or operations engineer, study more from
 
 ## Why use it?
 
+<details>
+<summary>Why use it?</summary>
+
 When I started this project, I didn't know a stack from a heap, didn't know Big-O anything, anything about trees, or how to
 traverse a graph. If I had to code a sorting algorithm, I can tell ya it wouldn't have been very good.
 Every data structure I've ever used was built into the language, and I didn't know how they worked
@@ -194,6 +203,7 @@ memory" error, and then I'd have to find a workaround. I've used a few multidime
 thousands of associative arrays, but I've never created data structures from scratch.
 
 It's a long plan. It may take you months. If you are familiar with a lot of this already it will take you a lot less time.
+</details>
 
 ## How to use it
 
